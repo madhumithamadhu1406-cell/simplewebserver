@@ -1,18 +1,18 @@
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
-<html>
-    <head>
-        <title>Sample</title>
-    </head>
-    <body>
-        <h1 align="center"><b>Device Description-Madhumitha V-25016067</b></h1>
-        <table border="3" cellspacing="5" cellpadding=""10>
+r="3" cellspacing="5" cellpadding=""10>
             <tr> 
                 <th>S.No.</th>
                 <th>Device specifications</th>
                 <th>Description</th>
             </tr>
-            <tr>
+            <tr><html>
+    <head>
+        <title>Sample</title>
+    </head>
+    <body>
+        <h1 align="center"><b>Device Description-Madhumitha V-25016067</b></h1>
+        <table borde
                 <td>1</td>
                 <td>Storage</td>
                 <td>954GB</td>
